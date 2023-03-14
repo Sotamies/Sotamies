@@ -18,8 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Picture
+<img src="https://media.discordapp.net/attachments/913010801961488424/1046470395118747748/ezgif.com-gif-maker_3.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sotamies&icon=6&color=9)](https://visitcount.itsvg.in)
